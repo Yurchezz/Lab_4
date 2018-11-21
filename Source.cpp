@@ -1,3 +1,4 @@
+//Lorem ipsum dolorem
 #include"header.h"
 Stadium::Stadium() {
 	viewers_number = 0;
